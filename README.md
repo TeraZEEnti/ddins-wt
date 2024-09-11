@@ -1,2 +1,0 @@
-# ddins-wt
-denis-wtt
